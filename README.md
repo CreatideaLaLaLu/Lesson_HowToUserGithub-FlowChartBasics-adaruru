@@ -14,7 +14,9 @@ UML:
 GitHub:
 
 透過 Github Classroom 產生的連結加入
+
 產生 Lesson_HowToUserGithub-FlowChartBasics_username 的 repo
+
 clone 下來，開新的 branch，將FlowChar.html檔案上傳。
 
 
