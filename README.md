@@ -5,7 +5,7 @@ UML:
 
 使用UML工具: https://www.draw.io/
 
-畫出流程圖
+畫出流程圖(如何上傳檔案到Github的流程)
 參考影片: https://www.youtube.com/watch?v=DYSPEkvTWig
 
 產出FlowChar.html檔案
