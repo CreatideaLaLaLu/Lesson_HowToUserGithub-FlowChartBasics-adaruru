@@ -10,7 +10,7 @@ UML:
 畫出流程圖(如何上傳檔案到Github的流程)
 
 
-產出FlowChar.html檔案
+產出FlowChar.jpg檔案
 
 
 GitHub:
@@ -19,7 +19,7 @@ GitHub:
 
 產生 Lesson_HowToUserGithub-FlowChartBasics_username 的 repo
 
-開新的 branch，將FlowChar.html檔案上傳。
+開新的 branch，將FlowChar.jpg檔案上傳。
 
 
 
