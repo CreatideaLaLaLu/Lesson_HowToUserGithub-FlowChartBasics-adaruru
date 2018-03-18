@@ -17,7 +17,7 @@ GitHub:
 
 產生 Lesson_HowToUserGithub-FlowChartBasics_username 的 repo
 
-clone 下來，開新的 branch，將FlowChar.html檔案上傳。
+開新的 branch，將FlowChar.html檔案上傳。
 
 
 
